@@ -95,7 +95,7 @@ packihx main.ihx > main.hex
 
 &emsp;&emsp;在完成代码编译并生成HEX文件后，可以使用仿真软件`Edsim51`进行测试。点击仿真软件的`Run`按钮，开始仿真。在仿真过程中，应观察到LED灯依次点亮，形成流水效果。这表明程序运行正常，开发环境和仿真环境均配置正确。
 
-![输入图片说明](https://raw.githubusercontent.com/chenxiahuaxu/stackedit-app-data-img/master/imgs/2025-06-18/Q826ZO0NHS6wkCdG.png)
+![输入图片说明](https://raw.githubusercontent.com/chenxiahuaxu/stackedit-app-data-img/master/imgs/2025-06-18/2s6KHJ8AeVlbahlY.gif)
 
 # 总结
 
