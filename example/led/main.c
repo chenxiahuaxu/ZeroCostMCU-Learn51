@@ -1,3 +1,12 @@
+/*
+ * @Author: chenxiahuaxu
+ * @Date: 2023-07-11 15:35:44
+ * @LastEditTime: 2023-07-11 15:52:45
+ * @LastEditors: chenxiahuaxu
+ * @Description: 流水灯实验
+ * @FilePath: /ZeroCostMCU-Learn51/example/led/main.c
+ */
+
 #include <mcs51/8052.h>
 
 // 简单延时函数

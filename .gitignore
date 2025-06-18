@@ -1,0 +1,12 @@
+*.asm
+*.hex
+*.ihx
+*.lk
+*.lst
+*.map
+*.mem
+*.rel
+*.rst
+*.sym
+
+software/edsim51di_version_2.1.39/

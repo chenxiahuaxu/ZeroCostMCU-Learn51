@@ -1,7 +1,15 @@
 
 
+/*
+ * @Author: chenxiahuaxu
+ * @Date: 2023-07-11 15:35:44
+ * @LastEditTime: 2023-07-11 15:52:45
+ * @LastEditors: chenxiahuaxu
+ * @Description: Hello World实验
+ * @FilePath: /ZeroCostMCU-Learn51/example/led/main.c
+ */
+
 #include <mcs51/8052.h>  // SDCC使用不同的头文件
-#include <string.h>
 #include <string.h>
 
 #define FOSC 11059200L      // 晶振频率11.0592MHz
